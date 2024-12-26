@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948806A1-477C-4849-B9C2-6C1EA89307F7}|Python_Practice\\Python_Practice.pyproj|C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\Python_Practice\\Python_Practice.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{948806A1-477C-4849-B9C2-6C1EA89307F7}|Python_Practice\\Python_Practice.pyproj|solutionrelative:Python_Practice\\Python_Practice.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 506,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python_Practice.py",
+              "DocumentMoniker": "C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\Python_Practice\\Python_Practice.py",
+              "RelativeDocumentMoniker": "Python_Practice\\Python_Practice.py",
+              "ToolTip": "C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\Python_Practice\\Python_Practice.py*",
+              "RelativeToolTip": "Python_Practice\\Python_Practice.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-26T14:40:29.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
