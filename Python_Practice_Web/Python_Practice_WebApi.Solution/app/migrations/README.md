@@ -1,0 +1,1 @@
+Esta carpeta contiene los archivos de migraciones para la base de datos.

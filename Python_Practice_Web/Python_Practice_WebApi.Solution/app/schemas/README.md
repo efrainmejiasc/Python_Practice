@@ -1,0 +1,1 @@
+Esta carpeta contiene los esquemas Pydantic para validación de datos.

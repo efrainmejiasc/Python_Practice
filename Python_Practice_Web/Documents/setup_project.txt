@@ -1,0 +1,17 @@
+app/: Carpeta principal donde vive toda la lógica de tu aplicación. Aquí es donde defines las rutas, modelos, esquemas, servicios y configuraciones.
+
+main.py: El archivo principal donde creas la instancia de FastAPI y defines los puntos de entrada. Es el archivo que se ejecuta al iniciar el servidor.
+
+api/: Contiene las rutas de tu API, generalmente divididas por versiones (v1/, v2/, etc.) o por módulos de tu aplicación (como personas, facturas, productos, etc.).
+
+core/: Este directorio se encarga de almacenar la lógica central, como la configuración de la aplicación, la conexión a la base de datos, la seguridad, y otros componentes esenciales.
+
+models/: Contiene los modelos que representan las entidades en tu base de datos o los datos que tu aplicación maneja. Si usas un ORM como SQLAlchemy, este directorio contiene los modelos de base de datos. Si usas Pydantic, contiene clases para la validación de datos.
+
+schemas/: Aquí defines los esquemas Pydantic que se utilizan para la validación de los datos que llegan o salen de tu API.
+
+services/: Este directorio contiene la lógica de negocio de tu aplicación. Los servicios manejan las interacciones entre las rutas y los modelos, como la creación, actualización, y eliminación de recursos.
+
+tests/: Contiene las pruebas automatizadas del proyecto. Es una buena práctica tener pruebas unitarias para asegurar que tu código funcione como se espera.
+
+migrations/: Si usas un ORM como SQLAlchemy, este directorio podría contener las migraciones de base de datos generadas por herramientas como Alembic.

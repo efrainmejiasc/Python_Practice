@@ -1,0 +1,1 @@
+Aquí se almacenan los casos de prueba para la aplicación.

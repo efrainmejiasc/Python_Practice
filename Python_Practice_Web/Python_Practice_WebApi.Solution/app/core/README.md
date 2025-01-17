@@ -1,0 +1,1 @@
+Esta carpeta contiene configuraciones esenciales y la lógica central.

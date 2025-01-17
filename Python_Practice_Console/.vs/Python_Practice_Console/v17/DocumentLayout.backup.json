@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 506,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +25,21 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Python_Practice.py",
               "DocumentMoniker": "C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\Python_Practice\\Python_Practice.py",
               "RelativeDocumentMoniker": "Python_Practice\\Python_Practice.py",
-              "ToolTip": "C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\Python_Practice\\Python_Practice.py*",
-              "RelativeToolTip": "Python_Practice\\Python_Practice.py*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\EfrainMejiasC\\Documents\\GitHub\\Python_Practice\\Python_Practice_Console\\Python_Practice\\Python_Practice.py",
+              "RelativeToolTip": "Python_Practice\\Python_Practice.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-12-26T14:40:29.77Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

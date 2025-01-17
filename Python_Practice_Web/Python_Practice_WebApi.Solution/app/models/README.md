@@ -1,0 +1,1 @@
+Aquí se definen los modelos que representan las entidades de la base de datos.

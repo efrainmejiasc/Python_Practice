@@ -1,0 +1,1 @@
+Esta carpeta contiene toda la lógica principal de la aplicación.
